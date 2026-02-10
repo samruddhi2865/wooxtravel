@@ -81,7 +81,3 @@ php artisan serve
 - User authentication & roles
 - Payment gateway
 - Reviews & ratings
-
-***
-
-**Would you like me to add badges (stars, forks, license) or include a demo screenshot section?**
